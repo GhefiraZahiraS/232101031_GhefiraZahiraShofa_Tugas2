@@ -3,7 +3,7 @@
 ![Deskripsi gambar](https://github.com/GhefiraZahiraS/232101031_GhefiraZahiraShofa_Tugas2/blob/main/assets/images/foto_2.png)
 ![Deskripsi gambar](https://github.com/GhefiraZahiraS/232101031_GhefiraZahiraShofa_Tugas2/blob/main/assets/images/foto_3.png)
 ![Deskripsi gambar]()
-![Deskripsi gambar]()
+![Deskripsi gambar](https://github.com/GhefiraZahiraS/232101031_GhefiraZahiraShofa_Tugas2/blob/main/assets/images/foto_5.png)
 
 A new Flutter project.
 
