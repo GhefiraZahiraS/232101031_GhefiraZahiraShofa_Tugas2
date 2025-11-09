@@ -1,4 +1,5 @@
 # flutter_application_1
+![Deskripsi gambar](assets/images/foto_1.png)
 
 A new Flutter project.
 
