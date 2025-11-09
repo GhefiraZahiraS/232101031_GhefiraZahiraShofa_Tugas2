@@ -1,5 +1,6 @@
 # flutter_application_1
 ![Deskripsi gambar](https://github.com/GhefiraZahiraS/232101031_GhefiraZahiraShofa_Tugas2/blob/main/assets/images/foto_1.png)
+![Deskripsi gambar](https://github.com/GhefiraZahiraS/232101031_GhefiraZahiraShofa_Tugas2/blob/main/assets/images/foto_2.png).
 
 A new Flutter project.
 
